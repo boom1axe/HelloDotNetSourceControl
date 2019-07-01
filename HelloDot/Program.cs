@@ -10,6 +10,7 @@ namespace HelloDot
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
