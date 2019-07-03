@@ -14,6 +14,9 @@ namespace HelloDot
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Displays a greeting to user
+        /// </summary>
         static void DisplayGreeting()
         {
             Console.WriteLine("Hello World");
